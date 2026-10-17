@@ -1,0 +1,1 @@
+"""ECA reproducible research package."""

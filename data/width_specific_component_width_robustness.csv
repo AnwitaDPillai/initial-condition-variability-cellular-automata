@@ -1,0 +1,7 @@
+metric,subset,n_rules_paired,same_direction_fraction,spearman_width_effects
+density_mean,all_assigned,8,1.0,0.7619047619047621
+density_mean,confident_only,7,1.0,0.8571428571428573
+density_temporal_sd,all_assigned,8,0.625,0.7857142857142858
+density_temporal_sd,confident_only,7,0.7142857142857143,0.7857142857142859
+damage_auc_50,all_assigned,8,0.25,-0.14285714285714288
+damage_auc_50,confident_only,7,0.14285714285714285,-0.7142857142857144
