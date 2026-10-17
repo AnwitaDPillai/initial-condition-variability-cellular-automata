@@ -83,4 +83,3 @@ The code and data required to reproduce all results, figures, and tables in this
 
 ## License
 This project is licensed under the MIT License. The data and figures are available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
-```
