@@ -79,7 +79,7 @@ python replicate_width_specific_components.py
 ## Data & Code Availability
 The code and data required to reproduce all results, figures, and tables in this manuscript are permanently archived on Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23432754.svg)](https://doi.org/10.5281/zenodo.23432754)
 
 ## License
 This project is licensed under the MIT License. The data and figures are available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
